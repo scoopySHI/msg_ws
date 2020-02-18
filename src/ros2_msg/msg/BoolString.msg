@@ -1,0 +1,2 @@
+bool shi
+string shishi
